@@ -45,7 +45,7 @@ public class NewWebService {
         for (int i = 0; x < 10; i++) {
             System.out.println("x:"+1);
             y = y + x;
-        }
+        } 
         
         return y;
     }
